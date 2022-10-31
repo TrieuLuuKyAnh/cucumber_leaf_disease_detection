@@ -4,9 +4,9 @@ __Description__: Detect cucumber leaves on the field and classify whether they h
 
 Below are some sample images:
 
-<img src="/static/cucumber-1.jpg" width="200" height="200"> <img src="/static/cucumber-2.jpg" width="200" height="200">
+<img src="/static/cucumber-1.jpg" width="400" height="400"> <img src="/static/cucumber-2.jpg" width="400" height="400">
 
-<img src="/static/cucumber-6.jpg" height="227">
+<img src="/static/cucumber-6.jpg" height="450">
 
 __Guide:__
 
