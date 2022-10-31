@@ -12,7 +12,7 @@ __Guide:__
 
 1. [client](client): `run.py` - run on client side, eg: Raspberry Pi
 2. [messages](messages): sample messages send and receive 
-3. [server](server): several servers for testing and using. 
+3. [server](server): several servers. Run this on laptop or PC 
 4. [static](static): some sample images to test the system
 5. [test](test): some test file 
 
