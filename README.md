@@ -8,10 +8,11 @@ Below are some sample images:
 
 <img src="/static/cucumber-6.jpg" height="227">
 
-__Instruction:__
+__Guide:__
 
-1. [client](client): `client.py` - run on client side, eg: Raspberry Pi
+1. [client](client): `run.py` - run on client side, eg: Raspberry Pi
 2. [messages](messages): sample messages send and receive 
 3. [server](server): several servers for testing and using. 
 4. [static](static): some sample images to test the system
 5. [test](test): some test file 
+
